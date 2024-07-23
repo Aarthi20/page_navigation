@@ -1,0 +1,31 @@
+.header-container{
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 0;
+}
+.nav-menu{
+  display: flex;
+  margin-right: 20px;
+  list-style-type: none;
+}
+.nav-link{
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family:'Roboto';
+  margin: 15px;
+  text-decoration: none;
+}
+.nav-link:hover{
+  color: #dedcdc;
+}
+.menu-name{
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}

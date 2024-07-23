@@ -1,0 +1,28 @@
+.about-container {
+    display: flex;
+    width: 600px;
+    margin-top: 12%;
+}
+.about-content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.about-heading {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.about-text {
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Roboto';
+}
+.about-image{
+    width: 290px;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 10px;
+}

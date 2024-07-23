@@ -1,0 +1,29 @@
+.contact-container {
+    display: flex;
+    width: 600px;
+    margin-top: 12%;
+}
+.contect-content-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.con-heading {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.con-text{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Roboto';
+    margin-bottom: 10px;
+}
+.contact-image{
+    width: 290px;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
